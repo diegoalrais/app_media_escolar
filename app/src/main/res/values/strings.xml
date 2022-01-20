@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Media Escolar</string>
+    <string name="txt_prova">Prova</string>
+    <string name="txt_teste">Teste</string>
+    <string name="txt_trabalho2">Trabalho 2</string>
+    <string name="txt_trabalho1">Trabalho 1</string>
+    <string name="txt_aluno">Aluno(a)</string>
+    <string name="bt_calcular_media">Calcular Média</string>
+    <string name="bt_limpar_dados">Limpar dados</string>
+</resources>
