@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Media_Escolar">
         <activity
+            android:name=".ListaMediaActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
